@@ -1,0 +1,11 @@
+.navbar {
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+nav{
+  border-bottom: 2px solid black;
+  border-image: linear-gradient(to left, turquoise, greenyellow) 1 0;
+}
